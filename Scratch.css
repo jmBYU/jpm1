@@ -1,0 +1,59 @@
+h2,h1,h3{
+    text-align: center;
+    text-decoration: underline;
+    font-style: oblique;
+    
+}
+
+.body1{
+    background-color:gainsboro;
+    height: 100%;
+    text-align: left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(82, 79, 79);
+    border-style: double;
+    border-color: black;
+}
+a href{
+    text-align: center;
+}
+img{
+    width: auto;
+    height: 500px;
+    border-color: black; 
+    border-width: .5cm;
+    border-style:solid;
+    
+}
+.center{
+    display: block;
+    margin-left:auto;
+    margin-right: auto;
+}
+
+iframe{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:900px;
+    height: 500px;
+}
+.BGdiv{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-indent: 1in;
+    list-style-position: inside;
+}
+.BDVC{
+    border-top: .5cm;
+    border-bottom: .5cm;
+    border-style: double;
+    outline-color: blue;
+
+}
+.Tab{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:900px;
+    
+}
